@@ -35,7 +35,7 @@ print condition
 
 print """\
 <br><br>
-Inspired by the less precise <a href="http://preciseweather.net">Precise Weather</a>
+Inspired by the less precise <a href="http://preciseweather.net">Precise Weather</a><br>
 Fork my <del>hideously ugly</del> code that was hacked together in 20 minutes on <a href="http://github.com/joshgordon/precise-weather/">Github</a>
 </body>
 </html>

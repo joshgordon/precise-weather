@@ -21,7 +21,7 @@ windmph = str(float(wind) * 2.23694) + str(random.randint(1000000000000000000000
 
 rh = str(random.randint(0, 99) + random.random()) + str(random.randint(10000000000000000000000000000000000000,100000000000000000000000000000000000000000))
 
-values = {"clear", "rain", "wind", "hail", "sleet", "showers", "hurricane", "tornado", "apocalypse"} 
+values = {"clear", "rain", "wind", "hail", "sleet", "showers", "hurricane", "tornado", "apocalypse", "Freezing Rain", "gravity inversion", "Alien Invasion"} 
 
 conditionArray = random.sample(values, 2)
 condition = conditionArray[0] + " with a chance of " + conditionArray[1] + "." 
